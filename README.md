@@ -69,7 +69,8 @@ Names
 -----
 
 The table data/names.csv provides a list of alternate or variant names.  These may include aliases/assumed names, legal names,
-birth names, or anglicizations/abbreviations of names.
+birth names, or anglicizations/abbreviations of names.  This is a relatively new product and is at present known to be very
+incomplete, even for people with MLB experience.
 
 
 
