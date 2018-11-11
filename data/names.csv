@@ -8,7 +8,7 @@ e247a1f9,Charles,Chappy,Raymond,1881,3,25,birth,en,Achenbach,Charles,Charles Shu
 93ef8ca4,Ackerman,Robert,Robert B.,,,,alias,en,Acherman,Robert,Robert B.,,,,
 db265b21,August,Joe,Joseph Samuel,1920,7,21,birth,en,Acquisto,Joe,Joseph Samuel,,,,
 93ef8ca4,Ackerman,Robert,Robert B.,,,,alias,en,Adler,Robert,Robert B.,,,1907,1907
-c7e549a7,Adolph,William,William,1882,8,22,birth,en,Adolff,William,William,,,,
+c7e549a7,Adolph,Bill,William,1882,8,22,birth,en,Adolff,William,William,,,,
 22d9ced0,Ahmann,Ben,Bernard F.,1898,2,26,alt-spelling,en,Ahman,Ben,Bernard F.,,,,
 b57b5038,Ahan,Mark,Mark Clement,,,,alias,en,Ahmann,Mark,Mark Clement,,,,
 a2be495b,Ankenhead,Robert,Robert B.,1928,,,alt-spelling,en,Akenhead,Robert,Robert B.,,,,
@@ -364,6 +364,7 @@ bcd0f031,Samuel,Dauwill,Dauwill Jose,1980,10,29,alias,en,Febles,Hector,Hector M.
 9396a5f7,Finley,Doug,Owen Douglas,1928,9,25,alt-spelling,en,Finaley,Douglas,Douglas,,,,
 0d98b547,Escalona,Javier,Javier,1925,,,alias,en,Flores,Javier,Javier,,,,
 2864a527,De Leon,Juan,Juan C.,1980,6,24,alias,en,Flores,Manuel,Manuel E.,,,,
+95f2ca4d,Forrester,Jack,John Walker,1882,9,2,birth,en,Forester,Jack,John Walker,,,,
 2b01cd71,Farless,Samuel,Samuel Irvin,1930,,,alt-spelling,en,Forless,Samuel,Samuel Irvin,,,,
 9f5a2c5e,Forsythe,Maurice,Maurice G.,1915,,,alt-spelling,en,Forsyth,Maurice,Maurice G.,,,,
 0e96c23e,Forwood,Walter,Walter H.,1921,,,alt-spelling,en,Foxwood,Walter,Walter H.,,,,
@@ -625,7 +626,7 @@ d84addee,Joseph,Onil,Onil Allen,1982,2,12,alias,en,Mota,Miguel,Miguel,,,,
 d61d6af8,Nash,Damond,Damond D.,1976,3,7,alias,en,Muhammad,Damon,Damon,,,,
 4a6af2e6,Hughes,John,John Joseph,1883,6,4,legal,en,Mulgrew,John,John Joseph,,,,
 5937420a,Johnson-Mullins,Chase,Chase Edward,1994,7,19,alias,en,Mullins,Chase,Chase Edward,,,,
-59d0468b,Mulvey,James,James,,,,birth,en,Mulvihill,James,James,,,,
+59d0468b,Mulvey,Jim,James,,,,birth,en,Mulvihill,James,James,,,,
 dfe98ee2,Masaoka,Shinji,Shinji,1949,8,15,alias,en,Murakami,Shinji,Shinji,,,1972,
 53626d02,Huston,Harry,Harry Emanuel Kress,1883,10,14,alias,en,Murphy,Harry,Harry,,,1905,1905
 ecbf62a4,Marsh,Frank,Frank J.,1923,,,legal,en,Mushinski,Frank,Frank Marsh,,,,
@@ -763,6 +764,7 @@ e140d697,Edmonston,Sam,Samuel Sherwood,1883,8,30,alias,en,Sherwood,Sam,Sam,,,190
 b2600f81,Simone,Peter,Peter John,1935,,,birth,en,Simonovitch,Peter,Peter J.,,,,
 cdd9d5c2,Smykal,Frank,Frank John,1889,10,13,birth,en,Smejkal,Frank,Frank John,,,,
 073c9f7f,Bluejacket,Jim,James,1887,7,8,legal,en,Smith,William,William Lincoln,,,,
+3e311526,Barngrover,Charles,Charles A.,1883,1,1,alias,en,Smith,,,,,1910,1910
 9c28c4a3,Brennan,Taylor,Taylor R.,1992,1,31,alias,en,Smith-Brennan,Taylor,Taylor R.,,,,
 519c18e9,Concepcion,Ambiorix,Ambiorix M.,1982,3,19,alias,en,Solano,Roberto,Roberto M.,,,,
 519c18e9,Concepcion,Ambiorix,Ambiorix M.,1982,3,19,alias,en,Solano,Roberto,Roberto,,,,
