@@ -81,6 +81,7 @@ f3b0cd2c,Richar,Danny,Danny Adam,1983,6,9,alias,en,Berroa,Joandry,Joandry,,,,
 83bc851b,Jensen,Justin,Justin Randall,1973,12,19,alias,en,Bettencourt,Justin,Justin R.,,,,
 559605f6,Betcher,Frank,Franklin Lyle,1888,2,15,birth,en,Bettger,Frank,Franklin Lyle,,,,
 99a37eac,Bialkowski,Stanley,Stanley,1929,2,10,alias,en,Bialecki,Stanley,Stanley,,,,
+88aafff5,Bryk,Bill,William E.,1951,1,18,legal,en,Bill,William,William E.,,,,
 a76a8470,Binks,George,George Alvin,1914,7,11,birth,en,Binkowski,George,George Eugene,,,,
 8669ad27,Sapp,Charley,Charles E.,,,,alias,en,Blake,Otto,Otto,,,1910,1910
 14822fe8,Blake,John,John Francis,,,,alias,en,Blakely,John,John Francis,,,1913,1913
@@ -128,7 +129,6 @@ a7d9cd04,Broun,Lawson,Ernest Lawson,1926,,,alt-spelling,en,Brown,Ernest,Ernest L
 08137667,Sovde,Dick,Richard Dean,1935,3,9,alias,en,Browning,Richard,Richard Dean,,,,
 254b0689,Bronkie,Herman,Herman Charles,1885,3,30,legal,en,Brunke,Herman,Herman Charles,,,,
 9aa2c722,Brown,Elias,Elias,1896,3,28,legal,en,Bryant,Elias,Elias,,,,
-88aafff5,Brykczynski,Bill,William E.,1951,1,18,alias,en,Bryk,William,William E.,,,,
 791670ec,Broski,Emil,Emil C.,1921,,,birth,en,Brzowsky,Emil,Emil C.,,,,
 f4ebc1cf,Beaumier,Edmond,Edmond J.,1921,1,4,alias,en,Bucka,Edmond,Edmond J.,,,,
 21d7a2cb,Beckle,Matt,Matt,1979,7,4,alt-spelling,en,Buckle,Matt,Matt,,,,
@@ -866,12 +866,14 @@ f65879ea,Vigneux,Sammy,Samuel A.,1872,3,28,birth,en,Vigneux,Arsene,Arsene,,,,
 fc8cb97f,Waleryanczyk,Ronald,Ronald J.,,,,anglicized,en,Wallace,Ron,Ron,,,,
 f9d86f72,Lindquist,Joseph,Joseph,,,,alias,en,Wallace,,,,,1907,1907
 1cd0f3ba,Klein,Ernesto,Ernesto W.,1930,,,alias,en,Wallerstein,Ernesto,Ernesto,,,,
+6e4dd9cd,Walukevich,Edmund,Edmund Leo,1924,12,23,alias,en,Walluk,Edmund,Edmund,,,,
 6e595d35,Waldstein,Morton,Morton,1920,5,11,alt-spelling,en,Walstein,Morton,Morton,,,,
 7b6a109c,Wanny,Charles,Charles,1913,,,birth,en,Wanagitis,Charles,Charles,,,,
 53626d02,Huston,Harry,Harry Emanuel Kress,1883,10,14,alias,en,Ward,Harry,Harry,,,1904,1904
 375f77e0,Ware,Al,Albert,1930,,,birth,en,Warzycki,Al,Albert,,,,
 d291ddca,Pare,Matt,Matthew,1990,11,17,birth,en,Watson,Matt,Matt,,,,2011
 aaa12c34,Russell,Addison,Addison Wayne,1994,1,23,birth,en,Watts,Geoffreye,Geoffreye O'Neal Addison Robert,,,,
+9eee29b7,Christiansen,David,David Henry,1953,,,legal,en,Weber,David,David Henry Christiansen,,,,
 8143fc7a,Wieland,Howard,Howard Robinson,,,,alt-spelling,en,Weiland,Howard,Howard Robinson,,,,
 dd19a13d,Weilman,Carl,Carl Edward,1889,11,29,legal,en,Weilenmann,Carl,Carl Edward,,,,
 64416070,Wieting,Henry,Henry J.,1916,,,alt-spelling,en,Weiting,Henry,Henry J.,,,,
