@@ -14,7 +14,7 @@ License
 -------
 
 This dataset is made available under the Open Data Commons Attribution License: 
-http://opendatacommons.org/licenses/by/1.0 
+http://opendatacommons.org/licenses/by/1.0/
 
 Chadwick Bureau make this data available in the hopes it will be useful to the community.
 All information is the best available at the time it is published, but may contain errors
