@@ -191,7 +191,7 @@ b3c76fd7,Crater,Marvin,Marvin Gray,1925,5,15,alt-spelling,en,Carter,Marvin,Marvi
 52e75df4,Senreiso,Juan,Juan Carlos,1981,8,4,alias,en,Charles,Julin,Julin Esterel,,,,
 eb2d5538,Chase,Rolland,Rolland Aquila,1893,5,24,birth,en,Chase,Rollin,Rollin Aquila,,,,
 e6e03a26,Chaves,Rafael,Rafael,1968,11,1,alt-spelling,en,Chavez,Rafael,Rafael,,,,
-ed7f76b6,Chen,Guan-Jie,Guan-Jie,1994,7,8,legal,en,Chen,Ping-Hsueh,Ping-Hsueh,,,,2019
+ed7f76b6,Chen,Kuan Chieh,Kuan Chieh,1994,7,8,legal,en,Chen,Ping-Hsueh,Ping-Hsueh,,,,2019
 aeab2767,Taiho,Yasuaki,Yasuaki,1963,11,15,birth,en,Chen,Tai-feng,Tai-feng,,,,
 be23eae7,Chirik,Edward,Edward,1922,,,alt-spelling,en,Cherick,Edward,Edward,,,,
 f2221c1c,Chism,Eli,Elisha,1916,7,1,birth,en,Chisum,Eli,Elisha,,,,
@@ -275,8 +275,8 @@ a9a02a59,Dougherty,Kevin,James Kevin,1978,3,4,alt-spelling,en,Daugherty,James,Ja
 4050580f,Howden,Huey,Huey,1941,3,10,alias,en,Davis,Huey,Huey,,,,
 1836d3bd,Fermin,Miguel,Miguel Angel,1985,2,11,alias,en,de los Santos,Joel,Joel,,,,
 15225985,De Los Santos,Braulio,Braulio,1987,9,19,alias,en,De Los Santos,Robinson,Robinson,,,2008,2011
-3005a2e9,De Alejandro,Marte,Marte,1930,2,16,alt-spelling,en,DeAlejandro,Marte,Marte,,,,
 3005a2e9,De Alejandro,Marte,Marte,1930,2,16,alias,en,DeAlejandro,Marte,Marte,,,,
+3005a2e9,De Alejandro,Marte,Marte,1930,2,16,alt-spelling,en,DeAlejandro,Marte,Marte,,,,
 5effd827,DeAngelus,Michael,Michael,1917,,,alt-spelling,en,Deangelis,Michael,Michael,,,,
 07c783c9,DeBiase,Joseph,Joseph,,,,alt-spelling,en,DeBiase,Joseph,Joseph,,,,
 6455a0d2,DiBiasi,Vincent,Vincent,1920,9,24,alt-spelling,en,DeBiasi,Vincent,Vincent,,,,
@@ -814,6 +814,7 @@ ee229d23,Floyd,Bubba,Leslie Roe,1917,6,23,alias,en,Roe,Bubba,Bubba,,,,
 00b0d31d,Pena,Tony,Ramon Antonio,1982,1,9,alias,en,Rosario,Adriano,Adriano,,,2002,2004
 63374df9,Del Rosario,Francisco,Francisco Alberto,1980,9,28,alias,en,Rosario,Francisco,Francisco Alberto,Divison,,,
 350155ef,Roth,Allan,Allan,1917,5,10,birth,en,Roth,Abraham,Abraham,,,,
+709af20f,Roth,Philip,Philip,,,,legal,en,Rothlisberger,Philip,Philip,,,,
 b658f4b3,Eichberger,Charles,Charles R.,,,,alias,en,Rudolph,Ed,Ed,,,1911,1911
 f4bc01e8,Ruger,Earl,Earl,1883,9,,alt-spelling,en,Rugar,Earl,Earl,,,,
 6a099938,Dexter,Charles,Charles,1879,9,2,alias,en,Russell,Charles,Charles,,,1904,1904
