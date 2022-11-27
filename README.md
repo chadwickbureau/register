@@ -1,6 +1,25 @@
 This repository contains the Chadwick Baseball Bureau Register.
 The Register provides an index of identities for baseball data.
 
+Changes from 1 January 2023
+---------------------------
+
+The Register has grown significantly in scope since its introduction, and will continue to do so.
+As a result the People table file is quite large - larger than the recommended file size for git.
+
+We have now introduced a different structure for delivering the People table.  The file is now
+broken up into 16 files, `people-0.csv` through `people-f.csv`, grouped by the first digit
+of the person's Chadwick key.  In addition, the files are now collated in order of the person
+key, and not the person's name.
+
+These changes will help the data play somewhat better with git.  The individual file sizes
+will be more manageable, and the collation by identifier will help make the diffs easier to
+interpret as the collation order will be stable even as we revise a person's name.
+
+Files with the new layout will be available from 27 November 2022; the old monolithic
+people.csv will be withdrawn after the start of 2023.
+
+
 Location
 --------
 
@@ -24,7 +43,8 @@ revision).
 People
 ------
 
-The index of people is in data/people.csv.  The scope of this register
+The index of people is contained in 16 files, `data/people-0.csv` through `data/people-f.csv`.
+The scope of this register
 includes all people whom the Bureau has confirmed to have been a player, 
 manager, or umpire in a regulation professional game at any level.
 
@@ -40,7 +60,7 @@ In addition, there are entries for most NCAA Division I players and many NCAA Di
 players active in the 2010s.  Coverage of this population is intended to improve over time.
 
 The register also includes entries for some non-players, including all members of the 
-National Baseball Hall of Fame, all people who have been the subjects of SABR BioProject essays, 
+National Baseball Hall of Fame,
 as well as other off-field personnel for Major League Baseball clubs.
 
 The file contains basic name components and dates of birth and death (where known), as the minimal
