@@ -16,9 +16,6 @@ These changes will help the data play somewhat better with git.  The individual 
 will be more manageable, and the collation by identifier will help make the diffs easier to
 interpret as the collation order will be stable even as we revise a person's name.
 
-Files with the new layout will be available from 27 November 2022; the old monolithic
-people.csv will be withdrawn after the start of 2023.
-
 
 Location
 --------
