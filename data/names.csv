@@ -74,7 +74,7 @@ ab84dc24,Bartosh,T. J.,Thomas,1978,5,24,alt-spelling,en,Bartosch,T. J.,T. J.,,,,
 016d9ef0,Barry,Joe,Joseph Walter Paul,1928,4,28,birth,en,Barysauskas,Joseph,Joseph Walter Paul,,,,
 1a2d65d9,Bossard,Jack,Belasco Jackson,1930,4,21,alt-spelling,en,Bassard,Jack,Belasco Jackson,,,,
 8c34b846,Guzman,Jose,Jose Rafael,1983,10,19,alias,en,Batista,Juan,Juan Encarnacion,Abreu,,,
-2ded466a,Bauer,Charles,Charles W.,1916,,,alt-spelling,en,Bauers,Charles,Charles W.,,,,
+2ded466a,Bauer,Charles,Charles Walter,1915,3,16,alt-spelling,en,Bauers,Charles,Charles W.,,,,
 d9ec3b96,Vargas,Martin,Martin,1977,2,22,alias,en,Bautista,Martin,Martin V.,,,,
 eed461d1,Moreno,Victor,Victor,1982,12,22,alias,en,Bautista,Victor,Victor,Carela,,,
 695e5b02,Cottingham-Beard,Sam,Sam,1995,11,27,alias,en,Beard,Sam,Sam,,,,
@@ -158,6 +158,7 @@ a39f3122,Gouvea,Murilo,Murilo,1988,9,15,alias,en,Brolo,Murilo,Murilo,,,,
 290bb122,Allen,Lou,Louis Gregory,1904,2,29,legal,en,Brominski,Lou,Louis Gregory,,,,
 0d166b80,Mauer,Fred,Frederick H.,1862,4,19,alias,en,Brooks,F. H.,F. H.,,,1886,1886
 6af4b9d4,Parks,Slicker,Vernon Henry,1895,11,10,alias,en,Brooks,Harold,Harold,,,,
+5ecae206,Labate,Joe,Joseph Vincent,1895,3,22,alias,en,Brown,,,,,1916,1916
 a7d9cd04,Broun,Lawson,Ernest Lawson,1926,,,alt-spelling,en,Brown,Ernest,Ernest L.,,,,
 08137667,Sovde,Dick,Richard Dean,1935,3,9,alias,en,Browning,Richard,Richard Dean,,,,
 efcbfa6a,Brooks,Mandy,Jonathan,1897,8,18,legal,en,Brozek,Jonathan,Jonathan,,,,
@@ -182,8 +183,8 @@ ecf755df,Burrell,Frank,Frank Andrew,1866,12,22,alt-spelling,en,Burrill,Frank,Fra
 20cfaa3d,Glaister,Heinie,Henry B.,1909,12,25,alias,en,Burris,Henry,Henry B.,,,,
 e1c5be53,Bushey,Alfred,Alfred C.,,,,alias,en,Bush,George,George P.,,,1902,1902
 7f1518a6,Cammons,Brett,Brett William,1986,4,24,alias,en,Butts,Brett,Brett William,,,,2011
-769adf41,Rodriguez,Wandy,Wandy Fulton,1979,1,18,alias,en,Cabreja,Eny,Eny Angel,,,,
-7f7573f2,Simon,Alfredo,Alfredo,1981,5,8,alias,en,Cabrera,Carlos,Carlos Eduardo,,,,
+769adf41,Rodríguez,Wandy,Wandy Fulton,1979,1,18,alias,en,Cabreja,Eny,Eny Angel,,,,
+7f7573f2,Simón,Alfredo,Alfredo,1981,5,8,alias,en,Cabrera,Carlos,Carlos Eduardo,,,,
 451ebfc5,Chouneau,Bill,William,1888,9,2,birth,en,Cadreau,William,William,,,,
 7270f861,Caffie,Joe,Joseph Clifford,1931,2,14,alias,en,Caffrey,Cliff,Cliff,,,1950,1950
 a8dfd92c,Sager,James,James Ervin,1877,9,5,birth,en,Caiger,James,James Ervin,,,,
@@ -400,7 +401,7 @@ d2709d65,Blackard,Paul,Paul H.,1902,,,alias,en,Doss,Paul,Paul,,,,
 a3eaae48,Glenalvin,Bob,Robert Joseph,1867,1,17,legal,en,Dowling,Edward,Edward W.,,,,
 29a074ff,Drottar,Albert,Albert J.,1912,12,11,alt-spelling,en,Drattar,Albert,Albert J.,,,,
 f9d1cc92,Rowan,Dave,David,1881,12,6,birth,en,Drohan,Dave,David,,,,
-9be829e4,Dunne,Raymond,Raymond G.,1926,,,alt-spelling,en,Duane,Raymond,Raymond,,,,
+9be829e4,Dunne,Raymond,Raymond Gerald,1926,7,7,alt-spelling,en,Duane,Raymond,Raymond,,,,
 d40eced1,Duberstein,Edward,Edward,1911,,,alias,en,Duber,Edward,Edward,,,,
 21886fb8,Dubic,Chet,Chester W.,1918,,,birth,en,Dubicki,Chet,Chester W.,,,,
 be662f7d,Lee,Dud,Ernest Holford,1899,8,22,alias,en,Dudley,Dud,Dud,,,1920,1921
@@ -485,7 +486,7 @@ cc5a196e,Fullenwider,Phifer,Phifer,1886,12,13,alt-spelling,en,Fullenweider,Phife
 8ab89f80,Fulenwider,Emmitt,Emmitt R.,1915,2,22,alt-spelling,en,Fullenwider,Emmett,Emmett,,,,
 d5605eeb,Dalomba,Selah,Selah,,,,alias,en,Gabrielli-Delomba,Selah,Selah,,,,
 5afc1fe4,Ollar,Rick,Charles Richard,1953,5,28,legal,en,Gahbrielson,Rick,Charles Richard,,,,
-30770344,Oliva,Jose,Jose,1971,3,3,alias,en,Galvez,Jose,Jose,,,,
+30770344,Oliva,José,José,1971,3,3,alias,en,Galvez,Jose,Jose,,,,
 df340345,Mento,Al,Alfredo,1978,2,21,alias,en,Garcia,Alfredo,Alfredo,,,,
 bd206061,Martinez,Domingo,Domingo,1980,8,28,alias,en,Garcia,Angleidy,Angleidy,,,,
 2c0c459e,Garcia-Luna,Frank,Francisco Javier,1973,4,6,alias,en,Garcia,Francisco,Francisco,,,,
@@ -526,7 +527,7 @@ ffc3661b,Baski,Edward,Edward Sylvester,,,,birth,en,Golembiewski,Edward,Edward Sy
 1ffa0888,Montero,Carlos,Carlos Eduardo,1988,6,15,alias,en,Gonzalez,Edisson,Edisson,,,2007,2007
 8c76650e,Gonzalez-Molina,J. J.,Juan Jose,2001,1,7,alias,en,Gonzalez,J. J.,Juan Jose,,,,
 007efc5c,Gonzalez-Lopez,Jerry,Jerry,1985,10,30,alias,en,Gonzalez,Jerry,Jerry,,,,
-81b936b3,Uribe,Jose,Jose Altagracia,1959,1,21,birth,en,Gonzalez,Jose,Jose,,,,
+81b936b3,Uribe,José,José Altagracia,1959,1,21,birth,en,González,José,José,,,,
 790c3079,Goodsoozian,Sam,Samuel,1931,4,28,alias,en,Goody,Samuel,Samuel,,,,
 4eb157e6,Goossen-Brown,Justin,Justin,1996,4,4,alias,en,Goossen,Justin,Justin,,,,
 709a21a2,Strange-Gordon,Dee,Devaris,1988,4,22,alias,en,Gordon,Dee,Devaris,,,,
@@ -775,14 +776,14 @@ d749bb60,Munson,Ed,Edmund Phillip,1924,5,26,legal,en,Marcewicz,Ed,Edmund Phillip
 69b40a7a,Martell,Doc,Leon Alphonsus,1883,6,29,alt-spelling,en,Martel,Leon,Leon Alphonsus,,,,
 7739b6b0,Mustaikis,Alex,Alexander Dominick,1909,3,26,alias,en,Martin,Alexander,Alexander,,,,
 32ba7f4a,Munson,Joe,Joseph Martin Napoleon,1899,11,6,alias,en,Martin,Joe,Joe,,,1918,1919
-05148239,Martinez,Dennis,Jose Dennis,1954,5,14,legal,en,Martinez,Denis,Denis Jose,Ortiz,,,
+05148239,Martínez,Dennis,José Dennis,1954,5,14,legal,en,Martinez,Denis,Denis Jose,Ortiz,,,
 786dd768,Prensa,Carlos,Carlos M.,1980,6,29,alias,en,Martinez,Hancen,Hancen,,,,
 2919c1ac,Felix,Maximo,Maximo,1982,8,9,alias,en,Martinez,Joan,Joan M.,,,,
 60e77812,Martin,Babe,Boris Michael,1920,3,28,birth,en,Martinovich,Boris,Boris Michael,,,,
 82e8130e,Corporan,Willy,Willy Bienvenido,1981,9,2,alias,en,Mateo,Aneudis,Aneudis W.,,,,
 fefbc448,Tiburcio,Hector,Hector Richard,1981,6,11,alias,en,Mateo,Daniel,Daniel,,,,
 eabcb421,Valdez,Merkin,Merkin R.,1981,11,5,alias,en,Mateo,Manuel,Manuel,,,,
-6a9263d7,Martinez,Carlos,Carlos Ernesto,1991,9,21,alias,en,Matias,Carlos,Carlos,,,2010,2010
+6a9263d7,Martínez,Carlos,Carlos Ernesto,1991,9,21,alias,en,Matias,Carlos,Carlos,,,2010,2010
 1deb4ad3,Tatum,Tommy,V T,1919,7,16,alias,en,Mays,Thomas,Thomas,,,1938,1938
 af046153,Mierzejek,Leo,Leo Richard,1929,7,19,alias,en,Mazak,Leo,Leo Richard,,,,
 44ad8f6a,Mazur,Al,Alphonse Joseph,1916,4,13,birth,en,Mazurkiewicz,Al,Alphonse Joseph,,,,
@@ -856,7 +857,7 @@ b95f1255,Nichols,Joe,Joseph,,,,alt-spelling,en,Nickles,Joe,Joseph,,,,
 6e5024cd,Nonemaker,Joe,Joseph Frank,1874,5,8,birth,en,Nonnenmacher,Joe,Joseph Frank,,,,
 423355bc,Nops,Jerry,Jeremiah Henry,1875,6,23,legal,en,Nops,Fredrich,Fredrich Henry,,,,
 847fed72,Norcabbage,Alex,Alex John,1883,9,22,birth,en,Norcevix,Alex,Alex John,,,,
-f6da81f3,Martinez,Carlos,Carlos M.,1982,5,26,alias,en,Nova,Juan,Juan,,,,
+f6da81f3,Martínez,Carlos,Carlos M.,1982,5,26,alias,en,Nova,Juan,Juan,,,,
 2ca575cf,Nowaczyk,Edward,Edward M.,,,,alias,en,Novak,Edward,Edward M.,,,,
 4218e2b6,Neu,Otto,Otto Adam,1894,9,24,alias,en,Nye,Otto,Otto Adam,,,,
 01933977,Donovan,J.,J.,,,,alias,en,O'Brien,,,,,,
@@ -964,7 +965,7 @@ d5547759,Robinson,Jack,John Washburn,1880,7,15,legal,en,Robinson,Arthur,Arthur W
 ee229d23,Floyd,Bubba,Leslie Roe,1917,6,23,alias,en,Roe,Bubba,Bubba,,,,
 246985a4,Heusser,Ed,Edward Burlton,1909,5,7,alias,en,Rogers,,,,,1929,1929
 246985a4,Heusser,Ed,Edward Burlton,1909,5,7,alias,en,Rogers,Ed,Edward,,,,
-00b0d31d,Pena,Tony,Ramon Antonio,1982,1,9,alias,en,Rosario,Adriano,Adriano,,,2002,2004
+00b0d31d,Peña,Tony,Ramon Antonio,1982,1,9,alias,en,Rosario,Adriano,Adriano,,,2002,2004
 350155ef,Roth,Allan,Allan,1917,5,10,birth,en,Roth,Abraham,Abraham,,,,
 709af20f,Roth,Philip,Philip,,,,legal,en,Rothlisberger,Philip,Philip,,,,
 b658f4b3,Eichberger,Charles,Charles R.,,,,alias,en,Rudolph,Ed,Ed,,,1911,1911
@@ -1089,7 +1090,7 @@ d23336ac,Asencio,Jairo,Jairo Manuel,1983,5,30,alias,en,Valdez,Luis,Luis Manuel,,
 745e3830,Valentino,Quinto,Quinto,1918,8,16,alt-spelling,en,Valentine,Quinto,Quinto,,,,
 eac5cdf0,Aquino,Greg,Gregori Emilio,1978,1,11,alias,en,Valera,Gregori,Gregori Aquino,,,,
 b4299264,Glass,Ira,Ira Van,1921,11,30,alt-spelling,en,Van Glass,Ira,Ira,,,,
-a911589c,Velez,Eugenio,Eugenio,1982,5,16,alias,en,Vancamper,Eugenio,Eugenio,,,,
+a911589c,Vélez,Eugenio,Eugenio,1982,5,16,alias,en,Vancamper,Eugenio,Eugenio,,,,
 6c48ad76,Fletcher-Vance,Cobie,Cobie,1997,8,24,alias,en,Vance,Cobie,Cobie Fletcher,,,,
 a60d448d,Vukmire,Mike,Mylon,1925,1,2,legal,en,Vann,Mike,Mylon,,,,
 ba4bbf0a,Mesa,Wanel,Wanel,1987,1,15,alias,en,Vasquez,Wanel,Wanel,Mesa,,2006,2010
