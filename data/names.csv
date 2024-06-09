@@ -493,7 +493,7 @@ b9ff890b,McLean,Robert,Robert J.,1923,8,5,alias,en,Frith,Robert,Robert,,,,
 bf1eb96b,Few,William,William E.,,,,alt-spelling,en,Fue,William,William E.,,,,
 2aaf41b1,Vogel,A.,A.,,,,alt-spelling,en,Fugel,C.,C.,,,1906,1906
 cc5a196e,Fullenwider,Phifer,Phifer,1886,12,13,alt-spelling,en,Fullenweider,Phifer,Phifer,,,,
-8ab89f80,Fulenwider,Emmitt,Emmitt R.,1915,2,22,alt-spelling,en,Fullenwider,Emmett,Emmett,,,,
+8ab89f80,Fulenwider,Emmitt,Emmitt Ray,1915,2,22,alt-spelling,en,Fullenwider,Emmett,Emmett,,,,
 d5605eeb,Dalomba,Selah,Selah,,,,alias,en,Gabrielli-Delomba,Selah,Selah,,,,
 5afc1fe4,Ollar,Rick,Charles Richard,1953,5,28,legal,en,Gahbrielson,Rick,Charles Richard,,,,
 30770344,Oliva,José,José,1971,3,3,alias,en,Galvez,Jose,Jose,,,,
@@ -591,7 +591,6 @@ df5bf15e,Duverge,Salvadore,Salvadore Anibal,1976,5,14,alias,en,Hawkins,Salvadore
 36ce5beb,Derl,Hay,E. Hay,,,,alt-spelling,en,Hay,Derl,Derl E.,,,,
 f74e70d8,Hughes,Harry,Harry,1890,1,29,alias,en,Hayes,Harry,Harry,,,1912,1912
 636c277b,Casagrande,Thomas,Thomas E.,1930,6,4,birth,en,Hayes,Thomas,Thomas E.,,,,
-2cd9399b,Kennedy-Hayes,Titan,Titan Baird,2001,11,12,alias,en,Hayes,Titan,Titan Baird,,,,
 ec71c945,McGilvray,Bill,William Alexander,1883,4,29,alias,en,Hayes,William,William A.,,,1903,1904
 3c224e43,Sano,Motokuni,Motokuni,1958,3,6,birth,en,Hazakakis,Cristo,Cristo Horace,,,,
 9595a4eb,Hazelton,Doc,Willard Carpenter,1876,8,28,alt-spelling,en,Hazleton,Doc,Willard Carpenter,,,,
@@ -688,6 +687,7 @@ de784586,King,Husky,Herbert Auburn,1875,1,,birth,en,Kelley,H. A.,H. A.,,,,
 bf526c5e,Nelson,Ray,Raymond,1875,8,4,alias,en,Kellogg,Ray,Raymond Nelson,,,1903,1903
 3de636f6,Reeder,Frank,Frank Elmer,1883,4,9,alias,en,Kelly,Joe,Joe,,,,
 ded2db20,Shoemaker,Gene,Eugene Robert,1928,9,28,alias,en,Kennard,Gene,Eugene Robert,,,1954,1954
+2cd9399b,Hayes,Titan,Titan Baird,2001,11,12,alias,en,Kennedy-Hayes,Titan,Titan Baird,,,,
 7c0bc0fa,Kenny,Kenneth,Kenneth Eugene,1913,,,alt-spelling,en,Kenney,Kenneth,Kenneth,,,,
 68fb3493,Kensecki,Len,John Allen,1918,10,7,alt-spelling,en,Kensecke,Len,John Allen,,,,
 c9413e23,Kepler,Max,Maximilian,1993,2,10,alias,en,Kepler-Rozycki,Max,Maximilian,,,2010,2010
@@ -966,6 +966,7 @@ b2eebe9d,Espinosa,Victor,Victor Manuel,1980,12,31,alias,en,Ramirez,Wander,Wandar
 749d840c,Moreland,Emerson,Emerson Ready,1928,,,alias,en,Ready,Moreland,Moreland,,,,
 ffa7e10f,Recio,Pompeyo,Pompeyo,1933,4,10,alias,en,Recio,Pompeyo,Pompeyo,,,,
 aa9b9579,Brewster,Charlie,Charles Lawrence,1916,12,27,alias,en,Redburn,Jack,Jack,,,1949,1949
+3e9abe84,Reznichak,Joe,Joseph Theodore,1911,9,1,alias,en,Reed,Joe,Joseph Theodore,,,,
 aa537ee8,Hart,John,John Henry,1948,7,21,alias,en,Reen,John,John Hart,,,,
 0edab237,McCaffery,Robert,Robert K.,1932,1,29,alias,en,Reid,Douglas,Douglas Ross,,,,
 5e8ea128,Rivard,Reggie,Rejean Louis,1978,3,13,alias,en,Rejean,Rhett,Rhett,,,,
@@ -1060,6 +1061,7 @@ cdd9d5c2,Smykal,Frank,Frank John,1889,10,13,birth,en,Smejkal,Frank,Frank John,,,
 f108e58b,Sitton,Carl,Charles Vedder,1881,9,22,alias,en,Smith,Sid,Sid,,,1905,1905
 073c9f7f,Bluejacket,Jim,James,1887,7,8,legal,en,Smith,William,William Lincoln,,,,
 9c28c4a3,Brennan,Taylor,Taylor R.,1992,1,31,alias,en,Smith-Brennan,Taylor,Taylor R.,,,,
+fc5a9797,Snedigar,Louis,Louis Fielding,1890,1,2,alias,en,Snead,Louis,Louis,,,,
 ea6aed14,Tsao,Chun Yang,Chun Yang,1976,3,29,alias,en,So,Shunyo,Shunyo,,,,
 519c18e9,Concepcion,Ambiorix,Ambiorix M.,1982,3,19,alias,en,Solano,Roberto,Roberto M.,,,,
 68ad7654,Reese,Jimmie,James Herman,1901,10,1,birth,en,Solomon,Hyman,Hyman,,,,
