@@ -8,6 +8,13 @@ for identities of people involved in baseball.
 This dataset is made available under the Open Data Commons Attribution License: 
 http://opendatacommons.org/licenses/by/1.0/
 
+This public version of the Register is an extract of the full Chadwick register:
+* Revisions and updates are provided at a delay relative to the full version.
+* These files are all automatically generated.
+
+The two points above imply that pull requests do not make sense and will be
+deleted without individual acknowledgment (this note is your acknowledgment!)
+
 We offer much more detailed information and daily updates of this data for our clients.
 
 ## Location
@@ -16,11 +23,8 @@ The latest version of the data can always be found at
 http://github.com/chadwickbureau/register
 
 Updated versions are made available roughly once per week.  The repository contains a full
-history of the Register from the start of 2016.
+history of the public version of the Register from the start of 2016.
 
-All information is the best available at the time it is published, but may contain errors
-and is subject to revision (in the case of some parts of the data, frequent and substantial
-revision).
 
 ## File details
 
