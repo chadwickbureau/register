@@ -25,7 +25,6 @@ http://github.com/chadwickbureau/register
 Updated versions are made available roughly once per week.  The repository contains a full
 history of the public version of the Register from the start of 2016.
 
-
 ## File details
 
 ### People
