@@ -351,6 +351,7 @@ key_person,source,value
 02f89e0c,findagrave,166299919
 02fcb81b,findagrave,18673575
 02fcb81b,tsncards,147499
+03028be2,tsncards,126769
 0304ff0c,tsncards,149238
 03054ad7,tsncards,168
 03055c0b,findagrave,69642142
@@ -1322,6 +1323,8 @@ key_person,source,value
 0b9cc096,tsncards,15951
 0b9e1d2b,tsncards,13273
 0bab7cc1,tsncards,138475
+0bac76fe,findagrave,44147879
+0bac76fe,tsncards,127333
 0bb7b036,findagrave,139433425
 0bb7b036,tsncards,64731
 0bbed6bc,tsncards,31588
@@ -1389,6 +1392,7 @@ key_person,source,value
 0c549d3b,tsncards,104363
 0c55ec0a,tsncards,169544
 0c5db2a5,tsncards,66209
+0c5ef67d,tsncards,94137
 0c638fce,tsncards,55024
 0c653917,tsncards,96929
 0c6580d0,findagrave,58952060
@@ -1595,6 +1599,8 @@ key_person,source,value
 0eb81625,tsncards,9707
 0ebc4da0,findagrave,154056663
 0ebc92eb,tsncards,15120
+0ebdb29a,findagrave,68622825
+0ebdb29a,tsncards,98596
 0ec90477,tsncards,137707
 0eca1283,tsncards,14830
 0eca6a1d,tsncards,13072
@@ -3025,6 +3031,7 @@ key_person,source,value
 1bcce5c6,tsncards,9715
 1bcd9052,findagrave,9367321
 1bcd9052,tsncards,44440
+1bd25c82,tsncards,97581
 1bd419b3,tsncards,47129
 1bd5b4dd,tsncards,156993
 1bd629a4,tsncards,170387
@@ -3453,6 +3460,8 @@ key_person,source,value
 1ff8fb18,tsncards,57728
 1ff9e9b6,tsncards,106862
 1ffc21a8,tsncards,96067
+200161ae,findagrave,52691527
+200161ae,tsncards,131608
 2001d09f,findagrave,13318708
 2001d09f,tsncards,159240
 2003310b,findagrave,172525387
@@ -4299,6 +4308,8 @@ key_person,source,value
 28224e34,tsncards,52785
 28233e64,tsncards,32715
 28257dd8,tsncards,15410
+28297566,findagrave,5438499
+28297566,tsncards,133422
 282c4db6,tsncards,12236
 282cc018,tsncards,83511
 2832ba2d,tsncards,14109
@@ -4633,6 +4644,7 @@ key_person,source,value
 2b565905,findagrave,272434366
 2b565905,tsncards,70848
 2b5a332f,tsncards,15463
+2b5bf6ec,tsncards,82793
 2b5cdbfa,findagrave,184775570
 2b5cdbfa,tsncards,892
 2b606c12,tsncards,103150
@@ -5130,6 +5142,9 @@ key_person,source,value
 30781d6c,tsncards,14986
 30804ce6,tsncards,115409
 308c4118,tsncards,78807
+308ebe20,findagrave,3752902
+308ebe20,tsncards,141664
+308ebe20,tsncards,144875
 308f4730,tsncards,76748
 30906a05,tsncards,14426
 3094756d,findagrave,262894809
@@ -5255,6 +5270,8 @@ key_person,source,value
 319cb8fa,tsncards,156753
 319e6e3c,tsncards,141023
 31a71bb2,tsncards,136387
+31a7565b,findagrave,60682021
+31a7565b,tsncards,169416
 31aaa02d,tsncards,150291
 31ad86f8,tsncards,142309
 31af6941,tsncards,129330
@@ -5819,6 +5836,8 @@ key_person,source,value
 370d7507,tsncards,24245
 370f6d14,tsncards,23517
 3710ee73,tsncards,78096
+3711031c,findagrave,286385028
+3711031c,tsncards,119842
 37142f03,tsncards,7002
 3715fe57,tsncards,13762
 3717a21b,findagrave,21851049
@@ -6057,6 +6076,8 @@ key_person,source,value
 3992b39c,tsncards,2975
 3994030c,tsncards,158342
 39955a43,tsncards,79700
+3996fa76,findagrave,15172767
+3996fa76,tsncards,150490
 3997146c,tsncards,99928
 399bea11,tsncards,66081
 399daf3b,findagrave,141664670
@@ -6415,6 +6436,7 @@ key_person,source,value
 3ce19527,tsncards,48518
 3ceadbaa,tsncards,79711
 3cf3381d,tsncards,120938
+3cf48aac,tsncards,160803
 3cf4f5e4,tsncards,32570
 3cfcbaef,tsncards,108537
 3cfda116,findagrave,93634638
@@ -6807,6 +6829,7 @@ key_person,source,value
 410afa58,tsncards,256
 410d7bbe,tsncards,12311
 4110e708,tsncards,59868
+4112279b,tsncards,94366
 41179125,tsncards,174369
 411d59b9,tsncards,119724
 411dbc39,tsncards,83019
@@ -6988,6 +7011,7 @@ key_person,source,value
 42c3229f,tsncards,15026
 42c6a418,tsncards,10517
 42ca5640,tsncards,149798
+42ce9cf3,tsncards,169712
 42cfc11f,tsncards,82897
 42d40932,tsncards,10017
 42d728d4,tsncards,98419
@@ -7249,6 +7273,7 @@ key_person,source,value
 455ecad6,tsncards,160858
 455f174a,findagrave,7891486
 455f174a,tsncards,153234
+45624f87,tsncards,139360
 4564ab6d,tsncards,2450
 4564ab6d,tsncards,30739
 456a4856,tsncards,79904
@@ -7557,8 +7582,12 @@ key_person,source,value
 48b50821,tsncards,15618
 48be35c4,tsncards,13813
 48bee2f3,tsncards,32656
+48c27f51,findagrave,82245029
+48c27f51,tsncards,130875
 48c3fdcb,tsncards,2347
 48c48d45,tsncards,9616
+48d14538,findagrave,214237455
+48d14538,tsncards,59230
 48d3f7d7,tsncards,14711
 48d72c5b,tsncards,26143
 48d72c5b,tsncards,96414
@@ -8524,6 +8553,7 @@ key_person,source,value
 528545f0,tsncards,160006
 528777b6,tsncards,100426
 52878e7b,tsncards,63695
+528ac2f2,tsncards,134517
 528c27d2,tsncards,17628
 528c598f,tsncards,118853
 529036e6,tsncards,65865
@@ -8655,6 +8685,8 @@ key_person,source,value
 54008615,tsncards,14549
 5403603e,tsncards,101400
 5403603e,tsncards,101415
+5405401b,findagrave,409844
+5405401b,tsncards,18244
 540a2e4b,findagrave,82501468
 540c889a,tsncards,22036
 540f2bb5,tsncards,31929
@@ -8782,6 +8814,7 @@ key_person,source,value
 554d16c0,tsncards,161243
 554f9a99,tsncards,78310
 555019af,tsncards,149578
+55528acf,tsncards,59448
 5553c357,tsncards,141741
 55540d4b,tsncards,12422
 555552b1,tsncards,138455
@@ -9336,6 +9369,7 @@ key_person,source,value
 5aff1caf,tsncards,12577
 5b0328d4,findagrave,83219464
 5b0328d4,tsncards,177154
+5b0be422,tsncards,122194
 5b1503fe,tsncards,45010
 5b1a984f,tsncards,32510
 5b1f7cdb,tsncards,106586
@@ -9363,6 +9397,8 @@ key_person,source,value
 5b54a21b,findagrave,113150104
 5b54a21b,tsncards,66365
 5b567ddd,tsncards,97232
+5b568658,findagrave,99788374
+5b568658,tsncards,59941
 5b57d654,tsncards,126044
 5b5c97e1,tsncards,59
 5b5ebb12,findagrave,198215951
@@ -9553,6 +9589,8 @@ key_person,source,value
 5d4e9eaf,tsncards,7780
 5d5222ee,findagrave,123370931
 5d5222ee,tsncards,24806
+5d5688f1,findagrave,69381676
+5d5688f1,tsncards,171592
 5d5d3867,findagrave,66489632
 5d5d3867,tsncards,90658
 5d5f917e,findagrave,125147523
@@ -10346,6 +10384,7 @@ key_person,source,value
 6512e5fb,findagrave,90147964
 6512e5fb,tsncards,85696
 6516edba,tsncards,10879
+65195645,tsncards,108558
 651b6ebf,tsncards,5881
 651c45a2,tsncards,86862
 651cd06d,tsncards,157808
@@ -10762,6 +10801,8 @@ key_person,source,value
 6942dab2,tsncards,24874
 69454267,tsncards,67224
 69489e67,findagrave,147197796
+69492ecf,findagrave,82536426
+69492ecf,tsncards,27240
 69494023,findagrave,21768444
 69494023,tsncards,60241
 6949b3dd,tsncards,10695
@@ -11026,6 +11067,8 @@ key_person,source,value
 6bce0e18,tsncards,175218
 6bcf3990,findagrave,243056865
 6bcf3990,tsncards,66200
+6bd00b0a,findagrave,39810817
+6bd00b0a,tsncards,91519
 6bd110a0,tsncards,63114
 6bd40623,tsncards,20651
 6bd67a4c,findagrave,78623319
@@ -11168,6 +11211,7 @@ key_person,source,value
 6d239fde,tsncards,15516
 6d24cea1,findagrave,197225515
 6d26c3b9,tsncards,44195
+6d2b7a5f,tsncards,132243
 6d34a18b,tsncards,32923
 6d373c38,tsncards,136553
 6d38c09d,tsncards,77913
@@ -11516,6 +11560,7 @@ key_person,source,value
 7046ac14,findagrave,10953896
 7046ac14,tsncards,54841
 7048b5e9,tsncards,62718
+70498db8,tsncards,164438
 704a0d4e,findagrave,80074793
 704a0d4e,tsncards,11197
 704b3829,findagrave,250875754
@@ -13040,6 +13085,8 @@ key_person,source,value
 7e9e4ab2,tsncards,15829
 7ea05d9a,tsncards,20187
 7ea31cfc,tsncards,48575
+7ea51856,findagrave,204200443
+7ea51856,tsncards,114864
 7ea9fdcd,findagrave,125576410
 7ea9fdcd,tsncards,51774
 7eaf8e45,tsncards,6375
@@ -13264,6 +13311,8 @@ key_person,source,value
 808cda92,tsncards,2653
 808e4fd1,tsncards,129850
 80970098,tsncards,68086
+809d6d93,tsncards,171088
+809d6d93,tsncards,43560
 80a50a34,tsncards,14167
 80a75a4c,tsncards,178091
 80a9573e,tsncards,149962
@@ -13401,6 +13450,7 @@ key_person,source,value
 81ef6b3d,findagrave,148361555
 81f09f9b,tsncards,112265
 81f0f14e,tsncards,103806
+81f1e8f4,findagrave,56306078
 81f30393,tsncards,86646
 81fb09dc,tsncards,736
 820083e0,tsncards,2111
@@ -13517,6 +13567,7 @@ key_person,source,value
 82f5b6cd,tsncards,110804
 82f5b6cd,tsncards,116751
 82f985a3,tsncards,121777
+82fb56ed,tsncards,124496
 82fbf4ab,findagrave,113120859
 82fbf4ab,tsncards,161324
 82fc161a,tsncards,159109
@@ -13600,6 +13651,7 @@ key_person,source,value
 83bc00f3,tsncards,127387
 83bc2d9d,tsncards,138596
 83c0cdd4,tsncards,69
+83c5cc07,findagrave,3827174
 83c89765,tsncards,106790
 83cde882,tsncards,63287
 83d9b949,tsncards,8213
@@ -13706,6 +13758,10 @@ key_person,source,value
 84aba6ed,tsncards,15173
 84b1d83d,tsncards,14500
 84b4f717,tsncards,50650
+84b58082,findagrave,63516167
+84b58082,tsncards,114043
+84b58082,tsncards,128313
+84b58082,tsncards,153156
 84c6e993,tsncards,55604
 84cd9631,findagrave,27116983
 84cd9631,tsncards,96202
@@ -14094,6 +14150,8 @@ key_person,source,value
 8880d4ac,tsncards,115274
 8887cf83,tsncards,45942
 8888c21e,tsncards,163359
+888a78b4,findagrave,65613226
+888a78b4,tsncards,100899
 888c1079,tsncards,49956
 888d5148,tsncards,14009
 888d59f8,findagrave,981572
@@ -14144,6 +14202,8 @@ key_person,source,value
 890db43c,tsncards,149991
 890e52f2,tsncards,109016
 890e7a61,tsncards,162132
+89136d9b,findagrave,21226057
+89136d9b,tsncards,71945
 8913a631,tsncards,42892
 8913cc7c,findagrave,381199
 8913cc7c,tsncards,21406
@@ -14192,6 +14252,8 @@ key_person,source,value
 89851d4a,tsncards,77536
 89871d68,tsncards,15370
 898adab8,tsncards,128516
+898c5c2b,findagrave,71798447
+898c5c2b,tsncards,171645
 898f73fd,tsncards,24471
 8991056c,tsncards,164823
 89915757,tsncards,32737
@@ -14916,6 +14978,8 @@ key_person,source,value
 90519e5d,findagrave,142016721
 90535da6,tsncards,173045
 905713a7,tsncards,9620
+9057e21b,findagrave,271798660
+9057e21b,tsncards,180829
 905d7209,tsncards,22302
 905f7da2,tsncards,13918
 90637d95,findagrave,31493688
@@ -15017,6 +15081,8 @@ key_person,source,value
 914ea20b,tsncards,1989
 915265bd,findagrave,93325501
 915265bd,tsncards,83382
+91527918,findagrave,51436728
+91527918,tsncards,159424
 9157ecd8,tsncards,119176
 915b8a78,tsncards,28674
 915c6a0f,findagrave,94473827
@@ -15350,6 +15416,8 @@ key_person,source,value
 94b4061f,tsncards,78996
 94b494e2,findagrave,68186509
 94b494e2,tsncards,2353
+94b52cd2,findagrave,62505705
+94b52cd2,tsncards,100953
 94ba6023,tsncards,1025
 94bbf8aa,tsncards,10335
 94bc1e05,tsncards,161592
@@ -15413,6 +15481,7 @@ key_person,source,value
 958aca2a,tsncards,13313
 9599f382,tsncards,108882
 959a5745,tsncards,147444
+959c7ba1,tsncards,104800
 959d6259,findagrave,228279169
 959d6259,tsncards,5456
 959df329,tsncards,78333
@@ -15696,6 +15765,7 @@ key_person,source,value
 9879bb8d,findagrave,75121862
 9879bb8d,tsncards,139660
 987ad804,tsncards,126750
+987afe96,tsncards,168301
 98815620,tsncards,1814
 98876fc6,tsncards,170187
 988d48c5,findagrave,35763519
@@ -16424,6 +16494,8 @@ key_person,source,value
 9f873b78,findagrave,141415201
 9f873b78,tsncards,31688
 9f8a482c,tsncards,10124
+9f8b5b6d,findagrave,127943961
+9f8b5b6d,tsncards,59714
 9f8ea452,findagrave,137023159
 9f9277c9,findagrave,21312806
 9f95cbb6,tsncards,41925
@@ -16530,6 +16602,7 @@ a0ceee2e,tsncards,164764
 a0d1b17d,tsncards,14476
 a0d3d46f,tsncards,51150
 a0d79463,tsncards,164024
+a0d89fdd,tsncards,28376
 a0de07d8,tsncards,14154
 a0ded6a0,findagrave,48399749
 a0ded6a0,tsncards,151357
@@ -16597,6 +16670,7 @@ a158b03c,tsncards,15007
 a1594afa,tsncards,57668
 a15b8980,tsncards,12214
 a160990f,tsncards,13687
+a160e438,findagrave,197502094
 a160e438,tsncards,17210
 a1694f2b,tsncards,8562
 a16b321e,findagrave,50079717
@@ -16793,6 +16867,8 @@ a33f5270,tsncards,3214
 a346a3ff,findagrave,112798475
 a346a3ff,tsncards,98328
 a3486beb,tsncards,12615
+a34ac6fd,findagrave,271505047
+a34ac6fd,tsncards,137833
 a356c27e,findagrave,184419953
 a356c27e,tsncards,91348
 a3576ac5,tsncards,3649
@@ -17708,6 +17784,7 @@ ac13f9c2,tsncards,99869
 ac147edd,tsncards,15506
 ac15ca99,tsncards,78284
 ac15ffc4,tsncards,50149
+ac16bc13,tsncards,148406
 ac173e0a,findagrave,65972953
 ac173e0a,tsncards,115709
 ac179d23,tsncards,12527
@@ -18373,6 +18450,9 @@ b2af8f6f,tsncards,116947
 b2b581fc,tsncards,129284
 b2b5be33,tsncards,14064
 b2b82e8c,tsncards,12973
+b2b840f7,findagrave,150049068
+b2b840f7,tsncards,1675
+b2b840f7,tsncards,2437
 b2b94ba6,findagrave,196195242
 b2b94ba6,tsncards,15524
 b2bee222,tsncards,9630
@@ -18381,6 +18461,8 @@ b2c33c25,findagrave,140455264
 b2ccb9d5,tsncards,94820
 b2cdc48b,tsncards,18848
 b2cdfab6,findagrave,176077242
+b2d0214c,findagrave,203540520
+b2d0214c,tsncards,162071
 b2d56065,tsncards,65990
 b2daf6c6,tsncards,32412
 b2deaac7,tsncards,27728
@@ -18560,6 +18642,8 @@ b4bddb50,findagrave,220530542
 b4bddb50,tsncards,8362
 b4be6abe,tsncards,102819
 b4bfa13e,tsncards,97939
+b4c525ff,findagrave,129504742
+b4c525ff,tsncards,35728
 b4c574b2,tsncards,113976
 b4c9491b,findagrave,28662742
 b4c9491b,tsncards,102382
@@ -18571,6 +18655,7 @@ b4d34f6d,tsncards,171811
 b4d53108,tsncards,99111
 b4d6de12,tsncards,69747
 b4d7a390,tsncards,13027
+b4d95b71,tsncards,124548
 b4d99ad8,tsncards,99011
 b4dee298,tsncards,58252
 b4e2e40a,findagrave,135362423
@@ -18634,6 +18719,7 @@ b56cb5f6,tsncards,14353
 b56d2614,tsncards,72117
 b56e07b8,tsncards,163452
 b571dd79,tsncards,163447
+b5720c65,findagrave,192356200
 b574efd2,findagrave,218976206
 b574efd2,tsncards,147311
 b57a90db,findagrave,232150228
@@ -18983,6 +19069,7 @@ b89add83,tsncards,117343
 b89e2dc4,findagrave,176335560
 b89e2dc4,tsncards,37789
 b8a2996a,tsncards,4282
+b8a559ec,tsncards,136515
 b8a6d47e,findagrave,175136482
 b8a6d47e,tsncards,87504
 b8a7ed20,tsncards,135120
@@ -19124,6 +19211,7 @@ ba09698b,tsncards,126434
 ba0bbdfa,tsncards,93566
 ba0bddd1,findagrave,51824861
 ba0bddd1,tsncards,5360
+ba11e4e1,tsncards,145389
 ba11e8b6,findagrave,129724679
 ba11e8b6,tsncards,9094
 ba135690,tsncards,587
@@ -19186,6 +19274,7 @@ baae9b58,tsncards,152267
 bab11e84,tsncards,16219
 bab2d251,tsncards,101427
 bab65f47,tsncards,10477
+bab76725,findagrave,21088668
 bab8c34e,findagrave,172814593
 bab8c34e,tsncards,123842
 baba9cfd,tsncards,14438
@@ -19357,6 +19446,8 @@ bc170430,findagrave,208367064
 bc170430,tsncards,7912
 bc17c276,tsncards,137100
 bc196b10,tsncards,128490
+bc1dcdaa,findagrave,286556825
+bc1dcdaa,tsncards,125437
 bc244ece,tsncards,78244
 bc2b4fc5,findagrave,171813603
 bc2b4fc5,tsncards,95156
@@ -19687,6 +19778,8 @@ bfc1cea3,tsncards,175969
 bfc346df,findagrave,89370773
 bfc346df,tsncards,70137
 bfc52c43,tsncards,164750
+bfccc036,findagrave,126334977
+bfccc036,tsncards,119978
 bfcf6d99,tsncards,12647
 bfd40579,tsncards,15298
 bfd486dc,tsncards,123264
@@ -20281,6 +20374,8 @@ c5af0b85,tsncards,128985
 c5b3023a,tsncards,89097
 c5b57298,tsncards,133309
 c5b7060a,tsncards,141976
+c5c195f3,findagrave,146805343
+c5c195f3,tsncards,124972
 c5c2c423,tsncards,110969
 c5c98244,findagrave,62788543
 c5c98244,tsncards,72763
@@ -20300,6 +20395,9 @@ c5f136aa,tsncards,36666
 c5f40310,findagrave,14764796
 c5f40310,tsncards,90852
 c5f591d8,tsncards,32621
+c5f6b6fe,findagrave,61656089
+c5f6b6fe,tsncards,159648
+c5fa3236,tsncards,144805
 c5fa684f,tsncards,29881
 c5fc7a12,tsncards,13403
 c5fdc3b6,tsncards,4923
@@ -20363,6 +20461,8 @@ c68950a8,tsncards,44930
 c68f1c2b,findagrave,218981628
 c68f1c2b,tsncards,77868
 c6905b7c,tsncards,78291
+c690a99c,findagrave,72637389
+c690a99c,tsncards,96550
 c69199e0,tsncards,117924
 c693d09c,tsncards,113529
 c693e44a,tsncards,95540
@@ -20782,6 +20882,8 @@ cac186a7,tsncards,50574
 cac28d1d,tsncards,96336
 cac36450,tsncards,12119
 cac47a5a,tsncards,120767
+cac97079,findagrave,68907672
+cac97079,tsncards,23028
 cacb7f2a,tsncards,14566
 cacdd838,findagrave,220243871
 cad475ad,tsncards,13661
@@ -20946,6 +21048,7 @@ cc7643a1,tsncards,13790
 cc7b66aa,tsncards,10270
 cc7e6479,tsncards,53664
 cc8271d4,tsncards,177165
+cc83074b,tsncards,27736
 cc845609,tsncards,761
 cc87ccce,tsncards,48093
 cc8beb10,tsncards,10960
@@ -21265,6 +21368,8 @@ cfa147d7,tsncards,15579
 cfa44776,tsncards,157506
 cfa44776,tsncards,164787
 cfa6e605,tsncards,169500
+cfa84d69,findagrave,114803550
+cfa84d69,tsncards,146444
 cfb0d09c,tsncards,1633
 cfb71a78,tsncards,14390
 cfb74636,tsncards,112850
@@ -21302,6 +21407,8 @@ d01035c8,findagrave,78640912
 d01035c8,tsncards,75093
 d0135fb6,tsncards,158822
 d01c51db,tsncards,164753
+d01c52b3,findagrave,47615431
+d01c52b3,tsncards,76579
 d01dde58,tsncards,98280
 d01fac31,tsncards,14737
 d025e3d9,tsncards,80597
@@ -21852,6 +21959,7 @@ d4f12b53,tsncards,81905
 d4f5cc05,tsncards,1980
 d4f6dce4,tsncards,92080
 d4f7ec7a,tsncards,12572
+d4fbb873,tsncards,131435
 d501cf3b,tsncards,101416
 d503bd86,tsncards,40093
 d5061177,tsncards,156456
@@ -22220,6 +22328,7 @@ d81a1fa0,tsncards,131565
 d81bfef4,tsncards,32790
 d81c15ba,tsncards,125251
 d81d27ed,tsncards,91174
+d820d538,tsncards,134977
 d821f771,findagrave,55403686
 d821f771,tsncards,13050
 d822e7a3,findagrave,102649155
@@ -23225,6 +23334,8 @@ e1d40b54,findagrave,127480355
 e1d40b54,tsncards,27265
 e1d73399,tsncards,14744
 e1dcb33d,findagrave,75941740
+e1e788be,findagrave,100532669
+e1e788be,tsncards,177261
 e1eb81e1,tsncards,80376
 e1ed3582,tsncards,1054
 e1ee9b96,tsncards,45520
@@ -23453,6 +23564,7 @@ e40c3ecf,findagrave,47573431
 e40c8040,findagrave,82065592
 e40c8040,tsncards,60159
 e40d4fed,tsncards,38654
+e40e82a9,tsncards,116145
 e418a754,findagrave,29263193
 e418a754,tsncards,127024
 e41a0fd2,tsncards,23066
@@ -23580,6 +23692,8 @@ e553d6f2,tsncards,149735
 e5567016,findagrave,95873514
 e5567016,tsncards,153475
 e55aa4bc,tsncards,177612
+e55bde70,findagrave,166655393
+e55bde70,tsncards,100913
 e55e24c7,tsncards,32745
 e56255eb,tsncards,6656
 e565cdbe,tsncards,6265
@@ -23843,6 +23957,8 @@ e7fa8f23,tsncards,24239
 e7fb6baa,tsncards,26346
 e7fee6aa,tsncards,125911
 e801d507,tsncards,5181
+e80b9938,findagrave,14485434
+e80b9938,tsncards,97653
 e8157ecc,tsncards,10454
 e81598c6,tsncards,104890
 e81a9efd,findagrave,120281406
@@ -23894,6 +24010,8 @@ e881a77a,tsncards,15224
 e8876da0,tsncards,44495
 e8876da0,tsncards,47595
 e88b89be,tsncards,11778
+e88bcbff,findagrave,60972627
+e88bcbff,tsncards,18934
 e88e827d,findagrave,177899098
 e88e827d,tsncards,6246
 e894c000,tsncards,108765
@@ -24178,6 +24296,8 @@ eb536c67,tsncards,15013
 eb538f9b,tsncards,89804
 eb55a39f,findagrave,273100847
 eb55a39f,tsncards,16279
+eb57fcb4,findagrave,53379364
+eb57fcb4,tsncards,177016
 eb58d4c5,tsncards,116306
 eb5a014f,tsncards,11056
 eb5d8187,tsncards,174148
@@ -24297,6 +24417,8 @@ ec8390a7,tsncards,94019
 ec8b21d0,tsncards,88621
 ec8e7a1a,tsncards,96341
 eca1091f,tsncards,26037
+eca12fb3,findagrave,120394277
+eca12fb3,tsncards,125296
 eca2af66,findagrave,22518488
 eca2af66,tsncards,55271
 eca42263,tsncards,1575
@@ -24527,6 +24649,7 @@ ef394462,findagrave,194473032
 ef394462,tsncards,108340
 ef3a2f8e,findagrave,239837910
 ef3a2f8e,tsncards,84368
+ef3f1038,tsncards,156979
 ef3fb771,tsncards,162781
 ef40b414,tsncards,125327
 ef41ad90,tsncards,11822
@@ -24848,7 +24971,10 @@ f2471b5b,tsncards,181387
 f24952fc,tsncards,48706
 f24b423f,findagrave,183091392
 f24b423f,tsncards,152427
+f24bffce,findagrave,102862365
 f24bffce,tsncards,144161
+f25a4498,findagrave,20472350
+f25a4498,tsncards,74524
 f25c5aa9,tsncards,12254
 f25cc3d5,tsncards,99460
 f25d8aa0,tsncards,79722
@@ -24930,6 +25056,7 @@ f2f537ff,tsncards,173059
 f2f73005,tsncards,103800
 f2f74903,tsncards,98908
 f2f96b48,tsncards,20658
+f2fbe1be,tsncards,47018
 f2fcf98d,tsncards,162575
 f2fdcff5,tsncards,150551
 f2ff0cb5,tsncards,84137
@@ -25577,6 +25704,7 @@ f8b9e357,tsncards,74705
 f8ba0ec1,tsncards,96143
 f8bc6347,tsncards,125170
 f8bdf53a,tsncards,12739
+f8be5775,tsncards,169355
 f8c03fda,tsncards,1768
 f8c0ec62,tsncards,123665
 f8c4dcef,tsncards,88158
@@ -26283,6 +26411,8 @@ fefe04ee,tsncards,55119
 ff08f241,tsncards,12179
 ff08f87b,tsncards,72442
 ff0bccd3,tsncards,76080
+ff0edf47,findagrave,256848338
+ff0edf47,tsncards,126347
 ff0fd28b,tsncards,83004
 ff1445ab,tsncards,10109
 ff15d25c,findagrave,131365424
