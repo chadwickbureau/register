@@ -15,6 +15,7 @@ This public version of the Register is an extract of the full Chadwick register:
 The two points above imply that pull requests do not make sense and will be
 deleted without individual acknowledgment (this note is your acknowledgment!)
 
+This public verison is updated only periodically.
 We offer much more detailed information and daily updates of this data for our clients.
 
 ## Location
